@@ -127,3 +127,4 @@ $RECYCLE.BIN/
 
 # Jetbrains IDE
 .idea
+cmake-build-debug

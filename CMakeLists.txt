@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22)
+project(rxz-Cpp-test)
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(P1567 P1567.cpp)
